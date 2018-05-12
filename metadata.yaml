@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32375
     wikipedia: http://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26972#Die-Theorie-des-RomansEin-geschichtsphilosophischer-Versuch--ber-die-Formen-der-gro-en-Epik
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2008-10-20'
 gutenberg_type: Text
